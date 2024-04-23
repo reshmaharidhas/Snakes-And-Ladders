@@ -6,3 +6,33 @@
   <img src="https://img.shields.io/github/license/reshmaharidhas/Snakes-And-Ladders"/>
   <img src="https://img.shields.io/github/created-at/reshmaharidhas/Snakes-And-Ladders"/>
 </p>
+This is the classic Snakes and Ladders game with two player mode. This game has board of 10x10 grid with 10 ladders, 11 snakes and 1 dice to roll.
+
+## Programming Language💻
+- Python 3
+
+## Tech Stack💻 
+- Tkinter (GUI)
+- Pygame (Audio library)
+
+## Development Tools💻
+- Pycharm
+- PyInstaller
+
+## Features🎯
+- Two player mode (Red and Blue)
+- Dice roller displaying random face on the dice on every roll🎲 
+- Player turns highlighted
+- Sounds to enhance the gaming experience for moving up on a ladder and going down in a snake 🔊
+- Sound ON/OFF button to mute and unmute the sounds in the application
+- Button to play the game as new game again after every game finishes
+- Exit button to quit the game ❌
+- Works offline without the need of Internet connection
+
+## Screenshots 💻
+![image](https://github.com/reshmaharidhas/Snakes-And-Ladders/assets/37250413/87aec979-b98c-4e79-8cd3-a296db71560c)
+![image](https://github.com/reshmaharidhas/Snakes-And-Ladders/assets/37250413/2563629e-eeca-489c-a7e7-58e3e00dd49c)
+
+
+## License
+This project is licensed under the MIT License
