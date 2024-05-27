@@ -21,9 +21,13 @@ This is the classic Snakes and Ladders game with two player mode. This game has 
 - PyInstaller
 
 ## Features🎯
-- Two player mode (Red and Blue)
+- 2 to 4 player mode
+- Opens in full screen mode
+- Visual animations of player pieces moving on the board
+- Exit full screen by pressing [Escape] key from keyboard
+- Open again in full screen mode by pressing [f] or [F] key from keyboard
 - Dice roller displaying random face on the dice on every roll🎲 
-- Player turns highlighted
+- Player turns highlighted with color
 - Sounds to enhance the gaming experience for moving up on a ladder and going down in a snake 🔊
 - Sound ON/OFF button to mute and unmute the sounds in the application
 - Button to play the game as new game again after every game finishes
