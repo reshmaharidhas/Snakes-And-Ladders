@@ -35,9 +35,8 @@ This is the classic Snakes and Ladders game with two player mode. This game has 
 - Works offline without the need of Internet connection
 
 ## Screenshots 💻
-![image](https://github.com/reshmaharidhas/Snakes-And-Ladders/assets/37250413/87aec979-b98c-4e79-8cd3-a296db71560c)
-![image](https://github.com/reshmaharidhas/Snakes-And-Ladders/assets/37250413/2563629e-eeca-489c-a7e7-58e3e00dd49c)
-
+![screenshot-2](https://github.com/reshmaharidhas/Snakes-And-Ladders/assets/37250413/a933969c-f8da-4574-a705-8f65fbb591da)
+![screenshot-1](https://github.com/reshmaharidhas/Snakes-And-Ladders/assets/37250413/b7b16205-6590-4ba8-a583-09f05c50d57b)
 
 ## License
 This project is licensed under the MIT License
