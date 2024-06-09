@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/github/license/reshmaharidhas/Snakes-And-Ladders"/>
   <img src="https://img.shields.io/github/created-at/reshmaharidhas/Snakes-And-Ladders"/>
 </p>
-This is the classic Snakes and Ladders game with two player mode. This game has board of 10x10 grid with 10 ladders, 11 snakes and 1 dice to roll.
+This is the classic Snakes and Ladders game with two to four player mode. This game has board of 10x10 grid with 10 ladders, 11 snakes and 1 dice to roll.
 
 ## Programming Language💻
 - Python 3
