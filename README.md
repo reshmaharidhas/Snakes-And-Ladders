@@ -4,6 +4,7 @@
   <img src="https://img.shields.io/github/languages/top/reshmaharidhas/Snakes-And-Ladders?labelColor=%23000000&color=%230000FF"/>
   <img src="https://img.shields.io/sourceforge/dt/snakes-and-ladders?label=Sourceforge%20downloads&labelColor=%23000000&color=%230000ff"/>
   <img src="https://img.shields.io/github/repo-size/reshmaharidhas/Snakes-And-Ladders"/>
+  <img src="https://img.shields.io/github/v/release/reshmaharidhas/Snakes-And-Ladders?labelColor=%23000000&color=%230000FF" />
   <img src="https://img.shields.io/github/license/reshmaharidhas/Snakes-And-Ladders"/>
   <img src="https://img.shields.io/github/created-at/reshmaharidhas/Snakes-And-Ladders"/>
 </p>
